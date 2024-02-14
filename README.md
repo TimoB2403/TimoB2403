@@ -1,4 +1,4 @@
-### Hey 👋 Timo here
+### Hey you 👋
 
 At first some Information about me:
 - 🙂 My name is Timo, 26 years old and living in Germany
