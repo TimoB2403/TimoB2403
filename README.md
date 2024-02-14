@@ -4,7 +4,7 @@ At first some Information about me:
 - 🙂 My name is Timo, 26 years old and living in Germany
 - ✏  Worked as an Technical Product Designer for almost four years
 - 🎓 Studied business Informatics for two years
-- 💻 currently learning web development
+- 💻 Currently learning web development
 
 - 📫 How to reach me:
 
