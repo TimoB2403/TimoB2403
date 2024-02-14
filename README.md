@@ -1,14 +1,14 @@
 ### Hey 👋 Timo here
 
+At first some Information about me:
+- ✏  Worked as an Technical Product Designer for almost four years
+- 🎓 Studied business Informatics for two years
+- 💻 currently learning web development
+
+- 📫 How to reach me:
+
 <!--
 **TimoB2403/TimoB2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Some Information about me first:
-- ✏ Worked as an technical Product Designer for almost 4 years
-- 🎓 Have studied business Informatics for 2 years
-- 💻 currently learning web developement
-
-- 📫 How to reach me: ...
 
 -->
 <div id="header" align="center">
