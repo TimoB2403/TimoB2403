@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/7OMR3y1E9QeYsr9olS" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-invidgroup-ninja-7OMR3y1E9QeYsr9olS">via GIPHY</a></p>" width="100"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODc3Zms1ZWMwbnJqa3c5aGFtNXZ1MHQzdG5ycHF3c2pvMXFzYmwxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7OMR3y1E9QeYsr9olS/giphy.gif"/>
 </div>
