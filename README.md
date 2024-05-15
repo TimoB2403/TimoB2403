@@ -1,7 +1,7 @@
 ### Hey you 👋
 
 At first some Information about me:
-- 🙂 My name is Timo, 26 years old and living in Germany
+- 🙂 My name is Timo, 27 years old and living in Germany
 - ✏  Worked as an Technical Product Designer for almost four years
 - 🎓 Studied business Informatics for two years
 - 💻 Currently learning Web Development
